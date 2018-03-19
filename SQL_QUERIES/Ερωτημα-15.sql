@@ -1,0 +1,3 @@
+UPDATE VOUCHER_CLASS
+SET STATUS = 'Σε Υλοποίηση'
+WHERE STATUS = 'Σε Προγραμματισμό' AND START_DATE < CURRENT_DATE

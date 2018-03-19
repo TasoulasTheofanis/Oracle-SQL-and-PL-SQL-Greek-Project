@@ -1,0 +1,1 @@
+SELECT AVG(Voucher_Value) FROM VOUCHER_CALL
