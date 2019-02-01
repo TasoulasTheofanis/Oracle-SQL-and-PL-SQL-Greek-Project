@@ -1,4 +1,4 @@
-# Oracle-SQL-PL/SQL-Project
+# Oracle SQL and PLSQL Project
 
 * Το παρόν αποτελεί μια ελάχιστα τροποποιημένη έκδοση της εξαμηνιαίας εργασίας στο μάθημα «Βάσεις Δεδομένων ΙΙ» και έχει ως στόχο την εκπαίδευση σε ORACLE SQL και PL/SQL. 
 * Οι πλατφόρμες/εργαλεία που χρησιμοποιήθηκαν είναι οι [oracle apex](https://apex.oracle.com/en/) και [Oracle 11g XE](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html). 
